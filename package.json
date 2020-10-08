@@ -1,0 +1,24 @@
+{
+  "name": "codespace-sandbox",
+  "version": "1.0.0",
+  "description": "codespace-sandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "textlint README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azu/codespace-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azu/codespace-sandbox/issues"
+  },
+  "homepage": "https://github.com/azu/codespace-sandbox#readme",
+  "devDependencies": {
+    "textlint": "^11.7.6",
+    "textlint-rule-preset-ja-technical-writing": "^4.0.1"
+  }
+}
